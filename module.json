@@ -1,0 +1,13 @@
+{
+    "name": "foundry-crazed",
+    "title": "Foundry Crazed",
+    "description": "A repository of revived moduled and foundry tweaks.",
+    "version": "0.1",
+    "author": "GameCrazed",
+    "scripts": ["actually-private-rolls.js"],
+    "url": "https://github.com/GameCrazed/FoundryCrazed",
+    "manifest": "https://raw.githubusercontent.com/GameCrazed/FoundryCrazed/master/module.json",
+    "download": "https://github.com/GameCrazed/FoundryCrazed/archive/refs/heads/main.zip",
+    "minimumCoreVersion": "0.8.8",
+    "compatibleCoreVersion": "0.8.9"
+}
